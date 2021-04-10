@@ -4,7 +4,7 @@ A lightweight text box library for SDL, using [SDL_ttf](http://www.libsdl.org/pr
 
 ## Usage
 
-Include the headers and source files from the project, then use `Font` to load fonts and `TextBox` to create simple text boxes.
+Include the headers and source files from this project, as well as SDL_ttf and FreeType, then use `Font` to load fonts and `TextBox` to create simple text boxes.
 
 ```cpp
 #include "Font.h"
